@@ -1,0 +1,16 @@
+D:\Учёба\4сем\ОПП\CustomElement\bin\Debug\net8.0-windows\CustomElement.deps.json
+D:\Учёба\4сем\ОПП\CustomElement\bin\Debug\net8.0-windows\CustomElement.dll
+D:\Учёба\4сем\ОПП\CustomElement\bin\Debug\net8.0-windows\CustomElement.pdb
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\UserControl1.g.cs
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement_MarkupCompile.cache
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement_MarkupCompile.lref
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\UserControl1.baml
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.g.resources
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.AssemblyInfoInputs.cache
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.AssemblyInfo.cs
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.csproj.CoreCompileInputs.cache
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.dll
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\refint\CustomElement.dll
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\CustomElement.pdb
+D:\Учёба\4сем\ОПП\CustomElement\obj\Debug\net8.0-windows\ref\CustomElement.dll

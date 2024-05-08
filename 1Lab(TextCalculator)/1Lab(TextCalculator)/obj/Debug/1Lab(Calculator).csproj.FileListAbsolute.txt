@@ -1,0 +1,15 @@
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\1Lab(TextCalculator).exe.config
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\1Lab(TextCalculator).exe
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\1Lab(TextCalculator).pdb
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(Calculator).csproj.AssemblyReference.cache
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\_1Lab_TextCalculator_.Properties.Resources.resources
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(Calculator).csproj.GenerateResource.cache
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(Calculator).csproj.CoreCompileInputs.cache
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(TextCalculator).exe
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(TextCalculator).pdb
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\NCalc.dll
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\Antlr4.Runtime.Standard.xml
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\1Lab(Calculator).csproj.CopyComplete
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\bin\Debug\MathParser.org-mXparser.dll
+D:\Учёба\4сем\ОПП\1Lab(TextCalculator)\1Lab(TextCalculator)\obj\Debug\_1Lab_TextCalculator_.CheckFloor.resources

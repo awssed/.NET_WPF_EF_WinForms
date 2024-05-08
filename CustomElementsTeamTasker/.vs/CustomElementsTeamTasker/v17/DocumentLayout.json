@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\userslider.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:userslider.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\userslider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:userslider.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u043E\u043F\u043F\\customelementsteamtasker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6951D755-0A98-4879-84BA-5D0886FA21AC}|CustomElementsTeamTasker.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:53:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSlider.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\UserSlider.xaml.cs",
+              "RelativeDocumentMoniker": "UserSlider.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\UserSlider.xaml.cs",
+              "RelativeToolTip": "UserSlider.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T19:39:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSlider.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\UserSlider.xaml",
+              "RelativeDocumentMoniker": "UserSlider.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\UserSlider.xaml",
+              "RelativeToolTip": "UserSlider.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-24T15:15:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T15:11:21.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-24T14:24:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\4\u0441\u0435\u043C\\\u041E\u041F\u041F\\CustomElementsTeamTasker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:24:41.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
